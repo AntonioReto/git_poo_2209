@@ -1,5 +1,13 @@
-##Mi primer commit
+#Mi primer commit
+
 ##antonio Reyes Tome
--elem 1
--elem 2
--elem 3
+
+-Elem 1
+-Elem 2
+-Elem 3
+
+esto es un **texto** de explicación de mi código.
+
+`
+Ventana ven = new Ventana();
+`
